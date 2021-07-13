@@ -17,7 +17,6 @@ body{
     display: flex;
     flex-wrap: wrap;
     max-width: 1140px;
-    max-height: 445px;
     margin: 0 auto;
     border-radius: 20px;
     justify-content: center;
